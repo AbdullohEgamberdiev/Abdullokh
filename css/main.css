@@ -1,0 +1,132 @@
+body{
+  background-color: rgb(178, 178, 178);
+}
+
+.container{
+  border: 1px solid rgb(177, 177, 177);
+  width: 1366px;
+  height: 700px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+}
+
+
+.child{
+  border: 1px solid white;
+  flex: 8;
+  display: flex;
+  flex-direction: column;
+}
+
+
+.box{
+  border: 1px solid white;
+  flex: 4;
+}
+
+
+.becomes{
+  padding-left: 40px;
+  padding-top: 40px;
+}
+
+
+.become-h1{
+  font-size: 40px;
+}
+
+
+.become-p{
+  margin-top: -15px;
+  line-height: 20px;
+  color: rgb(171, 171, 171);
+}
+
+
+.box1{
+  border: 1px solid white;
+  flex: 4;
+}
+
+
+.boxes{
+  border: 1px solid rgb(171, 171, 171);
+  width: 800px;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  gap: 230px;
+  margin-top: 18px;
+  margin-left: 44px
+
+}
+
+
+.google{
+  width: 35px;
+  height: 35px;
+  margin-left: 30px;
+}
+
+
+.facebook{
+  width: 35px;
+  height: 35px;
+  margin-left: 27px;
+}
+
+
+.twitter{
+  width: 35px;
+  height: 35px;
+  margin-left: 30px;
+}
+
+
+.box2{
+  border: 1px solid white;
+  flex: 4;
+  display: flex;
+  align-items: flex-end;
+}
+
+
+.box-bottom{
+  border: 1px solid rgb(177, 177, 177);
+  width: 100%;
+  height: 55%;
+  display: flex;
+  align-items: center;
+}
+
+
+.p-lar{
+  display: flex;
+  gap: 250px;
+  margin-left: 80px;
+}
+
+
+.p1{
+  color: black;
+}
+
+
+.p2{
+  color: rgb(177, 177, 177);
+}
+
+
+.child1{
+  border: 1px solid rgb(177, 177, 177);
+  flex: 4;
+}
+
+
+.new-york{
+  border: 1px solid rgb(177, 177, 177);
+  width: 500px;
+  height: 698px;
+}
